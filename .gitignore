@@ -1,0 +1,30 @@
+# ---- Arduino / PlatformIO build output ----
+build/
+.build/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.a
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# ---- Arduino IDE 2.x ----
+.theia/
+sketch.json
+
+# ---- Editors ----
+.vscode/
+.idea/
+*.swp
+
+# ---- OS cruft ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
