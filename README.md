@@ -222,6 +222,12 @@ can otherwise join the AP and read the dashboard.
 
 ---
 
+## Credit
+
+**Making content with this?** Videos, posts or tutorials: tag [@diaawastaken](https://www.instagram.com/diaawastaken/).
+
+---
+
 ## License
 
 This project is dual-licensed:

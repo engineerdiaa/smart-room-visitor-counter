@@ -1,3 +1,5 @@
+// Smart Room Visitor Counter by @diaawastaken · github.com/engineerdiaa/smart-room-visitor-counter · MIT
+
 #include <WiFi.h>
 #include <WebServer.h>
 #include <Wire.h>
